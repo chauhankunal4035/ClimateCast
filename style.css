@@ -1,0 +1,23 @@
+.searchbar{
+    display: flex  ;
+}
+
+body {
+    background-image: url(https://images.unsplash.com/photo-1579619572008-3fe9f19748ea?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+}
+.lowermain{
+    opacity: 70%;
+}
+.lower{
+    color: black;
+}
+.para{
+    color: whitesmoke;
+    font-size: 20px ;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
